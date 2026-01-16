@@ -6,3 +6,5 @@ The isEven() function will return true if a value is even or return false if a v
 
 The is Odd() function will return true if a value is odd or return false if a value is even.
 
+The multiply() function will multiply values.
+

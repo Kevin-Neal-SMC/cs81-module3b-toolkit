@@ -6,3 +6,5 @@ console.log(isEven(2)); returns as true and console.log(isEven(3)); returns as f
 
 console.log(isOdd(2)); returns as false and console.log(isOdd(3)); returns as true.
 
+console.log(multiply(2, 3)); outputs 6 as the result.
+
