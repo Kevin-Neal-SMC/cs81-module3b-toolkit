@@ -15,3 +15,10 @@ function isEven(x) {
 }
 console.log(isEven(2));
 console.log(isEven(3));
+
+
+function isOdd(x) {
+  return x % 2 !== 0;
+}
+console.log(isOdd(2));
+console.log(isOdd(3));
